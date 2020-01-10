@@ -1,7 +1,7 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
-url: https://getpoole.com
+title: Python
+tagline: Python with Coreenee
+url: https://coreenee.github.io
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -33,11 +33,11 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: JUNSUNG KIM
+  url: not
+  email: kkim509@naver.com
 
 # Custom vars
 version: 3.0.0
 github:
-  repo: https://github.com/poole/poole
+  repo: https://github.com/Coreenee/coreenee.github.io
