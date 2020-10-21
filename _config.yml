@@ -1,7 +1,7 @@
 # Setup
 title: 새로운 알고리즘 블로그 (여기 클릭)
 tagline: Python with Coreenee
-url: https://deveryday.github.io/
+url: "https://deveryday.github.io/"
 paginate: 10
 baseurl: ""
 permalink: pretty
